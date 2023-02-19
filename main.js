@@ -1,3 +1,3 @@
-function main() {
+function main(numberr) {
     return 0;
 }
